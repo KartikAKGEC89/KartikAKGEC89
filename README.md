@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Tyagi</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
-<img aling="center" alt="coding" width="400" src="[C:\Users\kartik\Downloads\readme-image.gif](https://camo.githubusercontent.com/3422dd10d90be0bf50803d4b633d09f88fd8c1c91366d984d2dd85b759aea4d9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966)
-">
+<img aling="center" alt="coding" width="400" src="https://camo.githubusercontent.com/3422dd10d90be0bf50803d4b633d09f88fd8c1c91366d984d2dd85b759aea4d9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikakgec89&label=Profile%20views&color=0e75b6&style=flat" alt="kartikakgec89" /> </p>
 
