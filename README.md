@@ -1,4 +1,4 @@
-![logo](https://github.com/KartikAKGEC89/KartikAKGEC89/blob/main/Black%20Red%20Modern%20Gaming%20Channel%20Banner%20Landscape%20(1).png)
+![logo](https://github.com/KartikAKGEC89/KartikAKGEC89/blob/main/Black%20Red%20Modern%20Gaming%20Channel%20Banner%20Landscape%20(2).png)
 <h1 align="center">Hi 👋, I'm Kartik Tyagi</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
